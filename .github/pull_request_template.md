@@ -13,4 +13,6 @@ TODO
 - [ ] Polish the PR title and description.
 - [ ] Assign a reviewer.
 
-WON'T DO
+EXCEPTIONS
+
+- [ ] Slide here each item that doesn't apply to this PR.
