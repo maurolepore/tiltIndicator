@@ -18,6 +18,7 @@ xstr_polish_output_at_company_level <- function(data) {
     data,
     cols = "grouped_by",
     delim = "_",
-    names = c("type", "scenario", "year")
+    names = c("type", "scenario", "year"),
+    cols_remove = FALSE
   )
 }
